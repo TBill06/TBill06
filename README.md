@@ -1,9 +1,9 @@
 - 👋 Hi, I'm @TBill
 - 🔭 I’m currently working on integrating large language models into solving everyday problems.
-- 🌱 I’m currently learning to consistently code everyday and building end-to-end applications.
-- 👯 I’m looking to collaborate on creating the next big thing.
+- 🌱 I’m currently learning application design/architecture. 
+- 👯 I’m looking to collaborate on creating the "next big thing".
 - 💬 Ask me about anything from cryptocurrency to chromosomes. I'm a philomath.
-- 📫 How to reach me: linkedin.com/in/tbill06
+- 📫 How to reach me: @Linkedin - Tushar Billakanti
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm left handed.
 <!--
