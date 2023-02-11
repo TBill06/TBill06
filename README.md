@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on integrating large language models into solving everyday problems.
 - 🌱 I’m currently learning application design/architecture. 
 - 👯 I’m looking to collaborate on creating the "next big thing".
-- 💬 Ask me about anything from cryptocurrency to chromosomes. I'm a philomath.
+- 💬 Ask me about anything from cryptocurrency to chromosomes. I'm a pantomath.
 - 📫 How to reach me: @Linkedin - Tushar Billakanti
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm left handed.
