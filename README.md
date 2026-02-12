@@ -1,4 +1,4 @@
-## - 👋 Hi, I'm TBill - Checkout the portfolio real quick @ __tusharb.com__
+## - 👋 Hi, I'm TBill - Checkout the portfolio real quick @ __https://tusharb.com__
 - 🔭 I’m currently working on integrating large language models into solving everyday problems.
 - 🌱 I’m currently learning application design/architecture. 
 - 👯 I’m looking to collaborate on creating the "next big thing".
